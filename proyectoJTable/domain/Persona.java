@@ -10,7 +10,7 @@ public class Persona
 	//***************************************************************
 	
 	public Persona()
-	{}
+	{} // constructor maniqui
 	
 	public Persona(String nombre, String apellido)
 	{
